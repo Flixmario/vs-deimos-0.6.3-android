@@ -1,0 +1,4 @@
+Vlaue 1: Sound File Name (in the sounds/ folder)
+Value 2: Volume (0 - 1)
+yes this is the one from holiday why would i
+write a new one if i have it somewhere else
