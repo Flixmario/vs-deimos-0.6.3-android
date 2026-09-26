@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="IncidentHank012f.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="RR Hank Down0000" x="2321" y="2396" width="757" height="570" frameX="-1" frameY="2" frameWidth="766" frameHeight="566"/>
+	<SubTexture name="RR Hank Down0001" x="753" y="3584" width="738" height="501" frameX="-22" frameY="-67" frameWidth="766" frameHeight="566"/>
+	<SubTexture name="RR Hank Down0002" x="0" y="3584" width="753" height="516" frameX="-12" frameY="-52" frameWidth="766" frameHeight="566"/>
+	<SubTexture name="RR Hank Idle0000" x="3254" y="2380" width="649" height="603" frameX="-5" frameY="1" frameWidth="660" frameHeight="600"/>
+	<SubTexture name="RR Hank Idle0001" x="3989" y="1793" width="635" height="588" frameX="-16" frameY="-14" frameWidth="660" frameHeight="600"/>
+	<SubTexture name="RR Hank Idle0002" x="3989" y="1201" width="632" height="592" frameX="-19" frameY="-10" frameWidth="660" frameHeight="600"/>
+	<SubTexture name="RR Hank Idle0003" x="3989" y="603" width="644" height="598" frameX="-13" frameY="-4" frameWidth="660" frameHeight="600"/>
+	<SubTexture name="RR Hank Idle0004" x="3254" y="1177" width="659" height="600" frameX="-3" frameY="-2" frameWidth="660" frameHeight="600"/>
+	<SubTexture name="RR Hank Idle0005" x="3254" y="1777" width="651" height="603" frameX="-3" frameY="1" frameWidth="660" frameHeight="600"/>
+	<SubTexture name="RR Hank Idle0006" x="3989" y="0" width="649" height="603" frameX="-5" frameY="1" frameWidth="660" frameHeight="600"/>
+	<SubTexture name="RR Hank Left0000" x="3254" y="591" width="714" height="586" frameX="-1" frameY="-7" frameWidth="784" frameHeight="592"/>
+	<SubTexture name="RR Hank Left0001" x="1582" y="2396" width="739" height="589" frameX="-25" frameY="-4" frameWidth="784" frameHeight="592"/>
+	<SubTexture name="RR Hank Left0002" x="3254" y="0" width="735" height="591" frameX="-33" frameY="-2" frameWidth="784" frameHeight="592"/>
+	<SubTexture name="RR Hank Right0000" x="0" y="1726" width="844" height="670" frameX="-1" frameY="2" frameWidth="843" frameHeight="666"/>
+	<SubTexture name="RR Hank Right0001" x="1625" y="1726" width="784" height="658" frameX="-36" frameY="-10" frameWidth="843" frameHeight="666"/>
+	<SubTexture name="RR Hank Right0002" x="2409" y="1726" width="767" height="633" frameX="-43" frameY="-35" frameWidth="843" frameHeight="666"/>
+	<SubTexture name="RR Hank Shoot Left0000" x="1985" y="588" width="1194" height="586" frameX="-26" frameY="-3" frameWidth="1987" frameHeight="587"/>
+	<SubTexture name="RR Hank Shoot Left0001" x="0" y="0" width="1985" height="585" frameX="-4" frameY="-3" frameWidth="1987" frameHeight="587"/>
+	<SubTexture name="RR Hank Shoot Left0002" x="0" y="1143" width="1461" height="583" frameX="-23" frameY="-5" frameWidth="1987" frameHeight="587"/>
+	<SubTexture name="RR Hank Shoot Left0003" x="1985" y="0" width="1269" height="588" frameX="-56" frameY="0" frameWidth="1987" frameHeight="587"/>
+	<SubTexture name="RR Hank Shoot Right0000" x="0" y="3093" width="798" height="491" frameX="-71" frameY="-23" frameWidth="1635" frameHeight="566"/>
+	<SubTexture name="RR Hank Shoot Right0001" x="0" y="585" width="1586" height="558" frameX="-51" frameY="-10" frameWidth="1635" frameHeight="566"/>
+	<SubTexture name="RR Hank Shoot Right0002" x="1985" y="1174" width="1110" height="507" frameX="-22" frameY="-13" frameWidth="1635" frameHeight="566"/>
+	<SubTexture name="RR Hank Up0000" x="0" y="2396" width="804" height="697" frameX="-1" frameY="2" frameWidth="819" frameHeight="693"/>
+	<SubTexture name="RR Hank Up0001" x="844" y="1726" width="781" height="670" frameX="-24" frameY="-24" frameWidth="819" frameHeight="693"/>
+	<SubTexture name="RR Hank Up0002" x="804" y="2396" width="778" height="663" frameX="-41" frameY="-31" frameWidth="819" frameHeight="693"/>
+</TextureAtlas>

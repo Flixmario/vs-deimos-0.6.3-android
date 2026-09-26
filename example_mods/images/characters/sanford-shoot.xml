@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="sanford-shoot.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="sanford shoot0000" x="1244" y="2377" width="1244" height="589" frameX="2" frameY="-4" frameWidth="1240" frameHeight="594"/>
+	<SubTexture name="sanford shoot0001" x="2488" y="0" width="1244" height="591" frameX="2" frameY="-4" frameWidth="1240" frameHeight="594"/>
+	<SubTexture name="sanford shoot0002" x="1244" y="1194" width="1244" height="591" frameX="2" frameY="-4" frameWidth="1240" frameHeight="594"/>
+	<SubTexture name="sanford shoot0003" x="1244" y="0" width="1244" height="593" frameX="2" frameY="2" frameWidth="1240" frameHeight="594"/>
+	<SubTexture name="sanford shoot0004" x="2488" y="2377" width="1244" height="589" frameX="2" frameY="-4" frameWidth="1240" frameHeight="594"/>
+	<SubTexture name="sanford shoot0005" x="3732" y="1174" width="1244" height="587" frameX="2" frameY="-4" frameWidth="1240" frameHeight="594"/>
+	<SubTexture name="sanford shoot0006" x="1244" y="593" width="1244" height="593" frameX="2" frameY="2" frameWidth="1240" frameHeight="594"/>
+	<SubTexture name="sanford shoot0007" x="2488" y="2966" width="1244" height="587" frameX="2" frameY="-4" frameWidth="1240" frameHeight="594"/>
+	<SubTexture name="sanford shoot0008" x="3732" y="587" width="1244" height="587" frameX="2" frameY="-4" frameWidth="1240" frameHeight="594"/>
+	<SubTexture name="sanford shoot0009" x="0" y="1786" width="1244" height="591" frameX="2" frameY="-4" frameWidth="1240" frameHeight="594"/>
+	<SubTexture name="sanford shoot0010" x="0" y="2966" width="1244" height="587" frameX="2" frameY="-4" frameWidth="1240" frameHeight="594"/>
+	<SubTexture name="sanford shoot0011" x="0" y="597" width="1244" height="597" frameX="2" frameY="2" frameWidth="1240" frameHeight="594"/>
+	<SubTexture name="sanford shoot0012" x="2488" y="1180" width="1244" height="589" frameX="2" frameY="-4" frameWidth="1240" frameHeight="594"/>
+	<SubTexture name="sanford shoot0013" x="2488" y="591" width="1244" height="589" frameX="2" frameY="-4" frameWidth="1240" frameHeight="594"/>
+	<SubTexture name="sanford shoot0014" x="3732" y="0" width="1244" height="587" frameX="2" frameY="-4" frameWidth="1240" frameHeight="594"/>
+	<SubTexture name="sanford shoot0015" x="0" y="1194" width="1244" height="592" frameX="2" frameY="-4" frameWidth="1240" frameHeight="594"/>
+	<SubTexture name="sanford shoot0016" x="2488" y="1769" width="1244" height="589" frameX="2" frameY="-4" frameWidth="1240" frameHeight="594"/>
+	<SubTexture name="sanford shoot0017" x="1244" y="1786" width="1244" height="591" frameX="2" frameY="-4" frameWidth="1240" frameHeight="594"/>
+	<SubTexture name="sanford shoot0018" x="0" y="2377" width="1244" height="589" frameX="2" frameY="-4" frameWidth="1240" frameHeight="594"/>
+	<SubTexture name="sanford shoot0019" x="1244" y="2966" width="1244" height="587" frameX="2" frameY="-4" frameWidth="1240" frameHeight="594"/>
+	<SubTexture name="sanford shoot0020" x="0" y="0" width="1244" height="597" frameX="2" frameY="2" frameWidth="1240" frameHeight="594"/>
+</TextureAtlas>

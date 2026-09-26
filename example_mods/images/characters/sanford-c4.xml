@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="sanford-c4.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="sanford_c0000" x="2469" y="2933" width="1235" height="582" frameX="2" frameY="2" frameWidth="1231" frameHeight="583"/>
+	<SubTexture name="sanford_c0001" x="2470" y="0" width="1235" height="585" frameX="2" frameY="2" frameWidth="1231" frameHeight="583"/>
+	<SubTexture name="sanford_c0002" x="0" y="2933" width="1234" height="585" frameX="2" frameY="2" frameWidth="1231" frameHeight="583"/>
+	<SubTexture name="sanford_c0003" x="3705" y="2328" width="1235" height="582" frameX="2" frameY="2" frameWidth="1231" frameHeight="583"/>
+	<SubTexture name="sanford_c0004" x="2468" y="2348" width="1234" height="585" frameX="2" frameY="2" frameWidth="1231" frameHeight="583"/>
+	<SubTexture name="sanford_c0005" x="3705" y="2910" width="1235" height="582" frameX="2" frameY="2" frameWidth="1231" frameHeight="583"/>
+	<SubTexture name="sanford_c0006" x="2470" y="1755" width="1235" height="585" frameX="2" frameY="2" frameWidth="1231" frameHeight="583"/>
+	<SubTexture name="sanford_c0007" x="3705" y="1746" width="1235" height="582" frameX="2" frameY="2" frameWidth="1231" frameHeight="583"/>
+	<SubTexture name="sanford_c0008" x="1234" y="2348" width="1234" height="585" frameX="2" frameY="2" frameWidth="1231" frameHeight="583"/>
+	<SubTexture name="sanford_c0009" x="2470" y="1170" width="1235" height="585" frameX="2" frameY="2" frameWidth="1231" frameHeight="583"/>
+	<SubTexture name="sanford_c0010" x="0" y="2348" width="1234" height="585" frameX="2" frameY="2" frameWidth="1231" frameHeight="583"/>
+	<SubTexture name="sanford_c0011" x="2470" y="3518" width="1235" height="582" frameX="2" frameY="2" frameWidth="1231" frameHeight="583"/>
+	<SubTexture name="sanford_c0012" x="1235" y="587" width="1235" height="587" frameX="2" frameY="2" frameWidth="1231" frameHeight="583"/>
+	<SubTexture name="sanford_c0013" x="1234" y="2933" width="1235" height="582" frameX="2" frameY="2" frameWidth="1231" frameHeight="583"/>
+	<SubTexture name="sanford_c0014" x="0" y="1761" width="1235" height="587" frameX="2" frameY="2" frameWidth="1231" frameHeight="583"/>
+	<SubTexture name="sanford_c0015" x="3705" y="0" width="1235" height="582" frameX="2" frameY="2" frameWidth="1231" frameHeight="583"/>
+	<SubTexture name="sanford_c0016" x="1235" y="1174" width="1235" height="587" frameX="2" frameY="2" frameWidth="1231" frameHeight="583"/>
+	<SubTexture name="sanford_c0017" x="3705" y="1164" width="1235" height="582" frameX="2" frameY="2" frameWidth="1231" frameHeight="583"/>
+	<SubTexture name="sanford_c0018" x="3705" y="3518" width="1235" height="582" frameX="2" frameY="2" frameWidth="1231" frameHeight="583"/>
+	<SubTexture name="sanford_c0019" x="0" y="587" width="1235" height="587" frameX="2" frameY="2" frameWidth="1231" frameHeight="583"/>
+	<SubTexture name="sanford_c0020" x="0" y="3518" width="1235" height="582" frameX="2" frameY="2" frameWidth="1231" frameHeight="583"/>
+	<SubTexture name="sanford_c0021" x="0" y="4100" width="1234" height="582" frameX="2" frameY="2" frameWidth="1231" frameHeight="583"/>
+	<SubTexture name="sanford_c0022" x="0" y="1174" width="1235" height="587" frameX="2" frameY="2" frameWidth="1231" frameHeight="583"/>
+	<SubTexture name="sanford_c0023" x="1235" y="3518" width="1235" height="582" frameX="2" frameY="2" frameWidth="1231" frameHeight="583"/>
+	<SubTexture name="sanford_c0024" x="1235" y="0" width="1235" height="587" frameX="2" frameY="2" frameWidth="1231" frameHeight="583"/>
+	<SubTexture name="sanford_c0025" x="2470" y="585" width="1235" height="585" frameX="2" frameY="2" frameWidth="1231" frameHeight="583"/>
+	<SubTexture name="sanford_c0026" x="0" y="3518" width="1235" height="582" frameX="2" frameY="2" frameWidth="1231" frameHeight="583"/>
+	<SubTexture name="sanford_c0027" x="0" y="0" width="1235" height="587" frameX="2" frameY="2" frameWidth="1231" frameHeight="583"/>
+	<SubTexture name="sanford_c0028" x="1235" y="1761" width="1235" height="585" frameX="2" frameY="2" frameWidth="1231" frameHeight="583"/>
+	<SubTexture name="sanford_c0029" x="3705" y="582" width="1235" height="582" frameX="2" frameY="2" frameWidth="1231" frameHeight="583"/>
+</TextureAtlas>

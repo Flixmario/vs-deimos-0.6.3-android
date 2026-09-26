@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="gf-truck-bandit.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="gfdance0000" x="2010" y="947" width="2010" height="947" frameX="2" frameY="2" frameWidth="2006" frameHeight="943"/>
+	<SubTexture name="gfdance0001" x="0" y="1894" width="2010" height="947" frameX="2" frameY="2" frameWidth="2006" frameHeight="943"/>
+	<SubTexture name="gfdance0002" x="0" y="947" width="2010" height="947" frameX="2" frameY="2" frameWidth="2006" frameHeight="943"/>
+	<SubTexture name="gfdance0003" x="2010" y="1894" width="2010" height="947" frameX="2" frameY="2" frameWidth="2006" frameHeight="943"/>
+	<SubTexture name="gfdance0004" x="0" y="0" width="2010" height="947" frameX="2" frameY="2" frameWidth="2006" frameHeight="943"/>
+	<SubTexture name="gfdance0005" x="0" y="2841" width="2010" height="947" frameX="2" frameY="2" frameWidth="2006" frameHeight="943"/>
+	<SubTexture name="gfdance0006" x="2010" y="0" width="2010" height="947" frameX="2" frameY="2" frameWidth="2006" frameHeight="943"/>
+	<SubTexture name="gfdance0007" x="2010" y="2841" width="2010" height="947" frameX="2" frameY="2" frameWidth="2006" frameHeight="943"/>
+	<SubTexture name="gfdodge0000" x="2010" y="947" width="2010" height="947" frameX="2" frameY="2" frameWidth="2006" frameHeight="943"/>
+	<SubTexture name="gfdodge0001" x="0" y="1894" width="2010" height="947" frameX="2" frameY="2" frameWidth="2006" frameHeight="943"/>
+	<SubTexture name="gfdodge0002" x="0" y="947" width="2010" height="947" frameX="2" frameY="2" frameWidth="2006" frameHeight="943"/>
+</TextureAtlas>
