@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="BoyFriend_With_Laugh.png" width="3836" height="840">
+    <SubTexture name="BF Laugh0000" x="0" y="0" width="548" height="420"/>
+    <SubTexture name="BF Laugh0001" x="548" y="0" width="548" height="420"/>
+    <SubTexture name="BF Laugh0002" x="1096" y="0" width="548" height="420"/>
+    <SubTexture name="BF Laugh0003" x="1644" y="0" width="548" height="420"/>
+    <SubTexture name="BF Laugh0004" x="2192" y="0" width="548" height="420"/>
+    <SubTexture name="BF Laugh0005" x="2740" y="0" width="548" height="420"/>
+    <SubTexture name="BF Laugh0006" x="3288" y="0" width="548" height="420"/>
+    <SubTexture name="BF Laugh0007" x="0" y="420" width="548" height="420"/>
+    <SubTexture name="BF Laugh0008" x="548" y="420" width="548" height="420"/>
+    <SubTexture name="BF Laugh0009" x="1096" y="420" width="548" height="420"/>
+    <SubTexture name="BF Laugh0010" x="1644" y="420" width="548" height="420"/>
+    <SubTexture name="BF Laugh0011" x="2192" y="420" width="548" height="420"/>
+    <SubTexture name="BF Laugh0012" x="2740" y="420" width="548" height="420"/>
+    <SubTexture name="BF Laugh0013" x="3288" y="420" width="548" height="420"/>
+    <SubTexture name="BF Laugh0014" x="3288" y="420" width="548" height="420"/>
+    <SubTexture name="BF Laugh0015" x="3288" y="420" width="548" height="420"/>
+    <SubTexture name="BF Laugh0016" x="3288" y="420" width="548" height="420"/>
+    <SubTexture name="BF Laugh0017" x="3288" y="420" width="548" height="420"/>
+    <SubTexture name="BF Laugh0018" x="3288" y="420" width="548" height="420"/>
+    <SubTexture name="BF Laugh0019" x="3288" y="420" width="548" height="420"/>
+    <SubTexture name="BF Laugh0020" x="3288" y="420" width="548" height="420"/>
+</TextureAtlas>
