@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="gf-truck.png" width="4016" height="3780">
+    <SubTexture name="gfdance0000" x="1" y="1" width="2006" height="943" frameX="0" frameY="-12" frameWidth="2006" frameHeight="962"/>
+    <SubTexture name="gfdance0001" x="2009" y="1" width="2006" height="943" frameX="0" frameY="-12" frameWidth="2006" frameHeight="962"/>
+    <SubTexture name="gfdance0002" x="1" y="946" width="2006" height="943" frameX="0" frameY="-12" frameWidth="2006" frameHeight="962"/>
+    <SubTexture name="gfdance0003" x="2009" y="946" width="2006" height="943" frameX="0" frameY="-12" frameWidth="2006" frameHeight="962"/>
+    <SubTexture name="gfdance0004" x="1" y="1891" width="2006" height="943" frameX="0" frameY="-12" frameWidth="2006" frameHeight="962"/>
+    <SubTexture name="gfdance0005" x="2009" y="1891" width="2006" height="943" frameX="0" frameY="-8" frameWidth="2006" frameHeight="962"/>
+    <SubTexture name="gfdance0006" x="1" y="2836" width="2006" height="943" frameX="0" frameY="-10" frameWidth="2006" frameHeight="962"/>
+    <SubTexture name="gfdance0007" x="2009" y="2836" width="2006" height="943" frameX="0" frameY="-10" frameWidth="2006" frameHeight="962"/>
+</TextureAtlas>
