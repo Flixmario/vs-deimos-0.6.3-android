@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="redfog.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="redfog0000" x="0" y="0" width="3627" height="2280"/>
+	<SubTexture name="redfog0001" x="0" y="0" width="3627" height="2280"/>
+	<SubTexture name="redfog0002" x="0" y="0" width="3627" height="2280"/>
+	<SubTexture name="redfog0003" x="0" y="0" width="3627" height="2280"/>
+	<SubTexture name="redfog0004" x="0" y="0" width="3627" height="2280"/>
+	<SubTexture name="redfog0005" x="0" y="0" width="3627" height="2280"/>
+	<SubTexture name="redfog0006" x="0" y="0" width="3627" height="2280"/>
+	<SubTexture name="redfog0007" x="0" y="0" width="3627" height="2280"/>
+	<SubTexture name="redfog0008" x="0" y="0" width="3627" height="2280"/>
+	<SubTexture name="redfog0009" x="0" y="0" width="3627" height="2280"/>
+	<SubTexture name="redfog0010" x="0" y="0" width="3627" height="2280"/>
+	<SubTexture name="redfog0011" x="0" y="0" width="3627" height="2280"/>
+	<SubTexture name="redfog0012" x="0" y="0" width="3627" height="2280"/>
+</TextureAtlas>

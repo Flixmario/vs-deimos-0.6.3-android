@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="tricky dies.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="tricky dies0000" x="2760" y="0" width="901" height="1055" frameX="-1519" frameY="-64" frameWidth="2436" frameHeight="1126"/>
+	<SubTexture name="tricky dies0001" x="906" y="2161" width="911" height="1033" frameX="-1512" frameY="-62" frameWidth="2436" frameHeight="1126"/>
+	<SubTexture name="tricky dies0002" x="0" y="1079" width="911" height="1082" frameX="-1512" frameY="-13" frameWidth="2436" frameHeight="1126"/>
+	<SubTexture name="tricky dies0003" x="0" y="2161" width="906" height="1048" frameX="-1521" frameY="-13" frameWidth="2436" frameHeight="1126"/>
+	<SubTexture name="tricky dies0004" x="2760" y="1055" width="845" height="1097" frameX="-1517" frameY="-8" frameWidth="2436" frameHeight="1126"/>
+	<SubTexture name="tricky dies0005" x="1850" y="0" width="910" height="1049" frameX="-1528" frameY="-56" frameWidth="2436" frameHeight="1126"/>
+	<SubTexture name="tricky dies0006" x="0" y="0" width="943" height="1079" frameX="-1492" frameY="-44" frameWidth="2436" frameHeight="1126"/>
+	<SubTexture name="tricky dies0007" x="1850" y="1049" width="898" height="1060" frameX="-1323" frameY="-44" frameWidth="2436" frameHeight="1126"/>
+	<SubTexture name="tricky dies0008" x="1817" y="2161" width="907" height="1018" frameX="-1248" frameY="-44" frameWidth="2436" frameHeight="1126"/>
+	<SubTexture name="tricky dies0009" x="943" y="0" width="907" height="1080" frameX="-725" frameY="-38" frameWidth="2436" frameHeight="1126"/>
+	<SubTexture name="tricky dies0010" x="943" y="1080" width="907" height="1073" frameX="2" frameY="-35" frameWidth="2436" frameHeight="1126"/>
+	<SubTexture name="tricky dies0011" x="3605" y="1055" width="4" height="4" frameX="-1511" frameY="-576" frameWidth="2436" frameHeight="1126"/>
+</TextureAtlas>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="hanktruck.png" width="3990" height="4033">
+    <SubTexture name="hanktruck0000" x="2694" y="2031" width="878" height="392" frameX="-1230" frameY="-21" frameWidth="2576" frameHeight="766"/>
+    <SubTexture name="hanktruck0001" x="890" y="2118" width="877" height="389" frameX="-1261" frameY="-26" frameWidth="2576" frameHeight="766"/>
+    <SubTexture name="hanktruck0002" x="3572" y="2126" width="390" height="877" rotated="true" frameX="-1282" frameY="-24" frameWidth="2576" frameHeight="766"/>
+    <SubTexture name="hanktruck0003" x="1814" y="2014" width="880" height="390" frameX="-1303" frameY="-21" frameWidth="2576" frameHeight="766"/>
+    <SubTexture name="hanktruck0004" x="1814" y="1620" width="880" height="394" frameX="-1324" frameY="-21" frameWidth="2576" frameHeight="766"/>
+    <SubTexture name="hanktruck0005" x="2694" y="1639" width="880" height="392" frameX="-1345" frameY="-22" frameWidth="2576" frameHeight="766"/>
+    <SubTexture name="hanktruck0006" x="2694" y="2031" width="878" height="392" frameX="-1366" frameY="-21" frameWidth="2576" frameHeight="766"/>
+    <SubTexture name="hanktruck0007" x="890" y="2118" width="877" height="389" frameX="-1387" frameY="-26" frameWidth="2576" frameHeight="766"/>
+    <SubTexture name="hanktruck0008" x="3572" y="2126" width="390" height="877" rotated="true" frameX="-1408" frameY="-24" frameWidth="2576" frameHeight="766"/>
+    <SubTexture name="hanktruck0009" x="1814" y="2014" width="880" height="390" frameX="-1429" frameY="-21" frameWidth="2576" frameHeight="766"/>
+    <SubTexture name="hanktruck0010" x="1814" y="1620" width="880" height="394" frameX="-1450" frameY="-21" frameWidth="2576" frameHeight="766"/>
+    <SubTexture name="hanktruck0011" x="2694" y="1639" width="880" height="392" frameX="-1471" frameY="-22" frameWidth="2576" frameHeight="766"/>
+    <SubTexture name="hanktruck0012" x="2694" y="2031" width="878" height="392" frameX="-1492" frameY="-21" frameWidth="2576" frameHeight="766"/>
+    <SubTexture name="hanktruck0013" x="890" y="2118" width="877" height="389" frameX="-1513" frameY="-26" frameWidth="2576" frameHeight="766"/>
+    <SubTexture name="hanktruck0014" x="3572" y="2126" width="390" height="877" rotated="true" frameX="-1534" frameY="-24" frameWidth="2576" frameHeight="766"/>
+    <SubTexture name="hanktruck0015" x="1814" y="2014" width="880" height="390" frameX="-1555" frameY="-21" frameWidth="2576" frameHeight="766"/>
+    <SubTexture name="hanktruck0016" x="1814" y="1620" width="880" height="394" frameX="-1567" frameY="-21" frameWidth="2576" frameHeight="766"/>
+    <SubTexture name="hanktruck0017" x="2694" y="1639" width="880" height="392" frameX="-1578" frameY="-22" frameWidth="2576" frameHeight="766"/>
+    <SubTexture name="hanktruck0018" x="2694" y="2031" width="878" height="392" frameX="-1600" frameY="-21" frameWidth="2576" frameHeight="766"/>
+    <SubTexture name="hanktruck0019" x="890" y="2118" width="877" height="389" frameX="-1616" frameY="-26" frameWidth="2576" frameHeight="766"/>
+    <SubTexture name="hanktruck0020" x="3572" y="2126" width="390" height="877" rotated="true" frameX="-1631" frameY="-24" frameWidth="2576" frameHeight="766"/>
+    <SubTexture name="hanktruck0021" x="913" y="1061" width="904" height="390" frameX="-1620" frameY="-23" frameWidth="2576" frameHeight="766"/>
+    <SubTexture name="hanktruck0022" x="0" y="0" width="924" height="406" frameX="-1623" frameY="-12" frameWidth="2576" frameHeight="766"/>
+    <SubTexture name="hanktruck0023" x="924" y="0" width="917" height="389" frameX="-1645" frameY="-29" frameWidth="2576" frameHeight="766"/>
+    <SubTexture name="hanktruck0024" x="1817" y="1213" width="902" height="407" frameX="-1674" frameY="-8" frameWidth="2576" frameHeight="766"/>
+    <SubTexture name="hanktruck0025" x="2756" y="0" width="912" height="419" frameX="-1663" frameY="+1" frameWidth="2576" frameHeight="766"/>
+    <SubTexture name="hanktruck0026" x="2742" y="881" width="904" height="373" frameX="-1671" frameY="-44" frameWidth="2576" frameHeight="766"/>
+    <SubTexture name="hanktruck0027" x="2719" y="1254" width="890" height="385" frameX="-1685" frameY="-30" frameWidth="2576" frameHeight="766"/>
+    <SubTexture name="hanktruck0028" x="0" y="406" width="914" height="445" frameX="-1661" frameY="-18" frameWidth="2576" frameHeight="766"/>
+    <SubTexture name="hanktruck0029" x="2756" y="419" width="909" height="462" frameX="-1666" frameY="-36" frameWidth="2576" frameHeight="766"/>
+    <SubTexture name="hanktruck0030" x="1841" y="0" width="915" height="544" frameX="-1661" frameY="-15" frameWidth="2576" frameHeight="766"/>
+    <SubTexture name="hanktruck0031" x="913" y="1451" width="901" height="667" frameX="-1674" frameY="-5" frameWidth="2576" frameHeight="766"/>
+    <SubTexture name="hanktruck0032" x="0" y="851" width="913" height="670" frameX="-1663" frameY="-43" frameWidth="2576" frameHeight="766"/>
+    <SubTexture name="hanktruck0033" x="1838" y="544" width="904" height="669" frameX="-1671" frameY="-44" frameWidth="2576" frameHeight="766"/>
+    <SubTexture name="hanktruck0034" x="0" y="1521" width="890" height="673" frameX="-1685" frameY="-41" frameWidth="2576" frameHeight="766"/>
+    <SubTexture name="hanktruck0035" x="924" y="389" width="914" height="672" frameX="-1661" frameY="-42" frameWidth="2576" frameHeight="766"/>
+    <SubTexture name="hanktruck0036" x="2640" y="2423" width="872" height="678" frameX="-1703" frameY="-36" frameWidth="2576" frameHeight="766"/>
+    <SubTexture name="hanktruck0037" x="2470" y="3131" width="685" height="872" rotated="true" frameX="-1703" frameY="-37" frameWidth="2576" frameHeight="766"/>
+    <SubTexture name="hanktruck0038" x="0" y="2194" width="873" height="730" frameX="-1703" frameY="-36" frameWidth="2576" frameHeight="766"/>
+    <SubTexture name="hanktruck0039" x="1745" y="3131" width="725" height="872" rotated="true" frameX="-1703" frameY="-41" frameWidth="2576" frameHeight="766"/>
+    <SubTexture name="hanktruck0040" x="1767" y="2404" width="873" height="727" frameX="-1703" frameY="-39" frameWidth="2576" frameHeight="766"/>
+    <SubTexture name="hanktruck0041" x="873" y="2886" width="872" height="730" frameX="-1703" frameY="-38" frameWidth="2576" frameHeight="766"/>
+    <SubTexture name="hanktruck0042" x="0" y="2924" width="872" height="730" frameX="-1703" frameY="-36" frameWidth="2576" frameHeight="766"/>
+    <SubTexture name="hanktruck0043" x="3155" y="3101" width="730" height="871" rotated="true" frameX="-1704" frameY="-35" frameWidth="2576" frameHeight="766"/>
+    <SubTexture name="hanktruck0044" x="0" y="3654" width="872" height="379" frameX="-1703" frameY="-36" frameWidth="2576" frameHeight="766"/>
+    <SubTexture name="hanktruck0045" x="872" y="3616" width="872" height="382" frameX="-1703" frameY="-36" frameWidth="2576" frameHeight="766"/>
+    <SubTexture name="hanktruck0046" x="873" y="2507" width="873" height="379" frameX="-1703" frameY="-36" frameWidth="2576" frameHeight="766"/>
+    <SubTexture name="hanktruck0047" x="3609" y="1254" width="381" height="872" rotated="true" frameX="-1703" frameY="-37" frameWidth="2576" frameHeight="766"/>
+    <SubTexture name="hanktruck0048" x="0" y="3654" width="872" height="379" frameX="-1703" frameY="-36" frameWidth="2576" frameHeight="766"/>
+    <SubTexture name="hanktruck0049" x="872" y="3616" width="872" height="382" frameX="-1703" frameY="-36" frameWidth="2576" frameHeight="766"/>
+    <SubTexture name="hanktruck0050" x="873" y="2507" width="873" height="379" frameX="-1703" frameY="-36" frameWidth="2576" frameHeight="766"/>
+    <SubTexture name="hanktruck0051" x="3609" y="1254" width="381" height="872" rotated="true" frameX="-1703" frameY="-37" frameWidth="2576" frameHeight="766"/>
+    <SubTexture name="hanktruck0052" x="0" y="3654" width="872" height="379" frameX="-1703" frameY="-36" frameWidth="2576" frameHeight="766"/>
+    <SubTexture name="hanktruck0053" x="872" y="3616" width="872" height="382" frameX="-1703" frameY="-36" frameWidth="2576" frameHeight="766"/>
+    <SubTexture name="hanktruck0054" x="873" y="2507" width="873" height="379" frameX="-1703" frameY="-36" frameWidth="2576" frameHeight="766"/>
+    <SubTexture name="hanktruck0055" x="3609" y="1254" width="381" height="872" rotated="true" frameX="-1703" frameY="-37" frameWidth="2576" frameHeight="766"/>
+    <SubTexture name="hanktruck0056" x="0" y="3654" width="872" height="379" frameX="-1703" frameY="-36" frameWidth="2576" frameHeight="766"/>
+    <SubTexture name="hanktruck0057" x="872" y="3616" width="872" height="382" frameX="-1703" frameY="-36" frameWidth="2576" frameHeight="766"/>
+    <SubTexture name="hanktruck0058" x="873" y="2507" width="873" height="379" frameX="-1682" frameY="-36" frameWidth="2576" frameHeight="766"/>
+    <SubTexture name="hanktruck0059" x="3609" y="1254" width="381" height="872" rotated="true" frameX="-1661" frameY="-37" frameWidth="2576" frameHeight="766"/>
+    <SubTexture name="hanktruck0060" x="0" y="3654" width="872" height="379" frameX="-1640" frameY="-36" frameWidth="2576" frameHeight="766"/>
+    <SubTexture name="hanktruck0061" x="872" y="3616" width="872" height="382" frameX="-1619" frameY="-36" frameWidth="2576" frameHeight="766"/>
+    <SubTexture name="hanktruck0062" x="873" y="2507" width="873" height="379" frameX="-1598" frameY="-36" frameWidth="2576" frameHeight="766"/>
+    <SubTexture name="hanktruck0063" x="3609" y="1254" width="381" height="872" rotated="true" frameX="-1577" frameY="-37" frameWidth="2576" frameHeight="766"/>
+    <SubTexture name="hanktruck0064" x="0" y="3654" width="872" height="379" frameX="-1556" frameY="-36" frameWidth="2576" frameHeight="766"/>
+    <SubTexture name="hanktruck0065" x="872" y="3616" width="872" height="382" frameX="-1535" frameY="-36" frameWidth="2576" frameHeight="766"/>
+    <SubTexture name="hanktruck0066" x="873" y="2507" width="873" height="379" frameX="-1514" frameY="-36" frameWidth="2576" frameHeight="766"/>
+    <SubTexture name="hanktruck0067" x="3609" y="1254" width="381" height="872" rotated="true" frameX="-1493" frameY="-37" frameWidth="2576" frameHeight="766"/>
+    <SubTexture name="hanktruck0068" x="0" y="3654" width="872" height="379" frameX="-1472" frameY="-36" frameWidth="2576" frameHeight="766"/>
+    <SubTexture name="hanktruck0069" x="872" y="3616" width="872" height="382" frameX="-1451" frameY="-36" frameWidth="2576" frameHeight="766"/>
+    <SubTexture name="hanktruck0070" x="873" y="2507" width="873" height="379" frameX="-1430" frameY="-36" frameWidth="2576" frameHeight="766"/>
+    <SubTexture name="hanktruck0071" x="3609" y="1254" width="381" height="872" rotated="true" frameX="-1409" frameY="-37" frameWidth="2576" frameHeight="766"/>
+    <SubTexture name="hanktruck0072" x="0" y="3654" width="872" height="379" frameX="-1388" frameY="-36" frameWidth="2576" frameHeight="766"/>
+    <SubTexture name="hanktruck0073" x="872" y="3616" width="872" height="382" frameX="-1367" frameY="-36" frameWidth="2576" frameHeight="766"/>
+    <SubTexture name="hanktruck0074" x="873" y="2507" width="873" height="379" frameX="-1346" frameY="-36" frameWidth="2576" frameHeight="766"/>
+    <SubTexture name="hanktruck0075" x="3609" y="1254" width="381" height="872" rotated="true" frameX="-1325" frameY="-37" frameWidth="2576" frameHeight="766"/>
+    <SubTexture name="hanktruck0076" x="0" y="3654" width="872" height="379" frameX="-1304" frameY="-36" frameWidth="2576" frameHeight="766"/>
+    <SubTexture name="hanktruck0077" x="872" y="3616" width="872" height="382" frameX="-1283" frameY="-36" frameWidth="2576" frameHeight="766"/>
+    <SubTexture name="hanktruck0078" x="873" y="2507" width="873" height="379" frameX="-1262" frameY="-36" frameWidth="2576" frameHeight="766"/>
+    <SubTexture name="hanktruck0079" x="3609" y="1254" width="381" height="872" rotated="true" frameX="-1241" frameY="-37" frameWidth="2576" frameHeight="766"/>
+    <SubTexture name="hanktruck0080" x="0" y="3654" width="872" height="379" frameX="-1220" frameY="-36" frameWidth="2576" frameHeight="766"/>
+    <SubTexture name="hanktruck0081" x="872" y="3616" width="872" height="382" frameX="-1199" frameY="-36" frameWidth="2576" frameHeight="766"/>
+    <SubTexture name="hanktruck0082" x="873" y="2507" width="873" height="379" frameX="-1178" frameY="-36" frameWidth="2576" frameHeight="766"/>
+    <SubTexture name="hanktruck0083" x="3609" y="1254" width="381" height="872" rotated="true" frameX="-1157" frameY="-37" frameWidth="2576" frameHeight="766"/>
+    <SubTexture name="hanktruck0084" x="0" y="3654" width="872" height="379" frameX="-1136" frameY="-36" frameWidth="2576" frameHeight="766"/>
+    <SubTexture name="hanktruck0085" x="872" y="3616" width="872" height="382" frameX="-1115" frameY="-36" frameWidth="2576" frameHeight="766"/>
+    <SubTexture name="hanktruck0086" x="873" y="2507" width="873" height="379" frameX="-1094" frameY="-36" frameWidth="2576" frameHeight="766"/>
+    <SubTexture name="hanktruck0087" x="3609" y="1254" width="381" height="872" rotated="true" frameX="-1073" frameY="-37" frameWidth="2576" frameHeight="766"/>
+    <SubTexture name="hanktruck0088" x="0" y="3654" width="872" height="379" frameX="-1052" frameY="-36" frameWidth="2576" frameHeight="766"/>
+    <SubTexture name="hanktruck0089" x="872" y="3616" width="872" height="382" frameX="-1031" frameY="-36" frameWidth="2576" frameHeight="766"/>
+    <SubTexture name="hanktruck0090" x="873" y="2507" width="873" height="379" frameX="-1010" frameY="-36" frameWidth="2576" frameHeight="766"/>
+    <SubTexture name="hanktruck0091" x="3609" y="1254" width="381" height="872" rotated="true" frameX="-989" frameY="-37" frameWidth="2576" frameHeight="766"/>
+    <SubTexture name="hanktruck0092" x="3609" y="1254" width="0" height="0" rotated="true" frameX="-989" frameY="-37" frameWidth="2576" frameHeight="766"/>
+</TextureAtlas>

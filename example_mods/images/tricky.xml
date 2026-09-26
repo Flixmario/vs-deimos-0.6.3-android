@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="tricky.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="tricky0000" x="0" y="0" width="1982" height="2145" frameX="2" frameY="-11" frameWidth="1978" frameHeight="2188"/>
+	<SubTexture name="tricky0001" x="1982" y="0" width="1869" height="2059" frameX="-54" frameY="-69" frameWidth="1978" frameHeight="2188"/>
+	<SubTexture name="tricky0002" x="0" y="2145" width="1762" height="1984" frameX="-108" frameY="-69" frameWidth="1978" frameHeight="2188"/>
+	<SubTexture name="tricky0003" x="3851" y="0" width="1778" height="2134" frameX="-100" frameY="-36" frameWidth="1978" frameHeight="2188"/>
+	<SubTexture name="tricky0004" x="0" y="0" width="1982" height="2145" frameX="2" frameY="-11" frameWidth="1978" frameHeight="2188"/>
+</TextureAtlas>

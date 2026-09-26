@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="madtruck.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="madtruck0000" x="875" y="2630" width="875" height="344" frameX="-1307" frameY="-21" frameWidth="2576" frameHeight="570"/>
+	<SubTexture name="madtruck0001" x="1752" y="1595" width="876" height="345" frameX="-1384" frameY="-21" frameWidth="2576" frameHeight="570"/>
+	<SubTexture name="madtruck0002" x="0" y="2974" width="875" height="344" frameX="-1397" frameY="-22" frameWidth="2576" frameHeight="570"/>
+	<SubTexture name="madtruck0003" x="3504" y="2736" width="875" height="342" frameX="-1413" frameY="-21" frameWidth="2576" frameHeight="570"/>
+	<SubTexture name="madtruck0004" x="875" y="2974" width="875" height="344" frameX="-1436" frameY="-22" frameWidth="2576" frameHeight="570"/>
+	<SubTexture name="madtruck0005" x="0" y="2630" width="875" height="344" frameX="-1491" frameY="-22" frameWidth="2576" frameHeight="570"/>
+	<SubTexture name="madtruck0006" x="2625" y="2974" width="875" height="343" frameX="-1502" frameY="-22" frameWidth="2576" frameHeight="570"/>
+	<SubTexture name="madtruck0007" x="1752" y="1038" width="876" height="346" frameX="-1531" frameY="-22" frameWidth="2576" frameHeight="570"/>
+	<SubTexture name="madtruck0008" x="0" y="3318" width="875" height="342" frameX="-1561" frameY="-24" frameWidth="2576" frameHeight="570"/>
+	<SubTexture name="madtruck0009" x="1752" y="0" width="876" height="346" frameX="-1573" frameY="-25" frameWidth="2576" frameHeight="570"/>
+	<SubTexture name="madtruck0010" x="0" y="2286" width="876" height="344" frameX="-1584" frameY="-25" frameWidth="2576" frameHeight="570"/>
+	<SubTexture name="madtruck0011" x="0" y="1249" width="876" height="346" frameX="-1619" frameY="-25" frameWidth="2576" frameHeight="570"/>
+	<SubTexture name="madtruck0012" x="876" y="1941" width="877" height="344" frameX="-1634" frameY="-25" frameWidth="2576" frameHeight="570"/>
+	<SubTexture name="madtruck0013" x="1750" y="2974" width="875" height="343" frameX="-1651" frameY="-25" frameWidth="2576" frameHeight="570"/>
+	<SubTexture name="madtruck0014" x="2628" y="2286" width="876" height="344" frameX="-1688" frameY="-29" frameWidth="2576" frameHeight="570"/>
+	<SubTexture name="madtruck0015" x="3504" y="0" width="876" height="342" frameX="-1702" frameY="-28" frameWidth="2576" frameHeight="570"/>
+	<SubTexture name="madtruck0016" x="1752" y="346" width="876" height="346" frameX="-1702" frameY="-28" frameWidth="2576" frameHeight="570"/>
+	<SubTexture name="madtruck0017" x="3504" y="2052" width="876" height="342" frameX="-1702" frameY="-28" frameWidth="2576" frameHeight="570"/>
+	<SubTexture name="madtruck0018" x="0" y="903" width="876" height="346" frameX="-1702" frameY="-28" frameWidth="2576" frameHeight="570"/>
+	<SubTexture name="madtruck0019" x="2628" y="344" width="876" height="344" frameX="-1702" frameY="-28" frameWidth="2576" frameHeight="570"/>
+	<SubTexture name="madtruck0020" x="876" y="1249" width="876" height="346" frameX="-1702" frameY="-28" frameWidth="2576" frameHeight="570"/>
+	<SubTexture name="madtruck0021" x="2628" y="1376" width="876" height="344" frameX="-1702" frameY="-28" frameWidth="2576" frameHeight="570"/>
+	<SubTexture name="madtruck0022" x="1752" y="692" width="876" height="346" frameX="-1702" frameY="-28" frameWidth="2576" frameHeight="570"/>
+	<SubTexture name="madtruck0023" x="1750" y="2630" width="875" height="344" frameX="-1702" frameY="-28" frameWidth="2576" frameHeight="570"/>
+	<SubTexture name="madtruck0024" x="876" y="1249" width="876" height="346" frameX="-1702" frameY="-28" frameWidth="2576" frameHeight="570"/>
+	<SubTexture name="madtruck0025" x="2628" y="344" width="876" height="344" frameX="-1702" frameY="-28" frameWidth="2576" frameHeight="570"/>
+	<SubTexture name="madtruck0026" x="0" y="1941" width="876" height="345" frameX="-1702" frameY="-28" frameWidth="2576" frameHeight="570"/>
+	<SubTexture name="madtruck0027" x="3504" y="1710" width="876" height="342" frameX="-1702" frameY="-28" frameWidth="2576" frameHeight="570"/>
+	<SubTexture name="madtruck0028" x="2628" y="1720" width="876" height="344" frameX="-1702" frameY="-28" frameWidth="2576" frameHeight="570"/>
+	<SubTexture name="madtruck0029" x="3504" y="684" width="876" height="342" frameX="-1702" frameY="-28" frameWidth="2576" frameHeight="570"/>
+	<SubTexture name="madtruck0030" x="0" y="544" width="875" height="359" frameX="-1702" frameY="-13" frameWidth="2576" frameHeight="570"/>
+	<SubTexture name="madtruck0031" x="876" y="0" width="876" height="489" frameX="-1702" frameY="-28" frameWidth="2576" frameHeight="570"/>
+	<SubTexture name="madtruck0032" x="0" y="0" width="876" height="544" frameX="-1702" frameY="-28" frameWidth="2576" frameHeight="570"/>
+	<SubTexture name="madtruck0033" x="876" y="903" width="876" height="346" frameX="-1702" frameY="-28" frameWidth="2576" frameHeight="570"/>
+	<SubTexture name="madtruck0034" x="2628" y="0" width="876" height="344" frameX="-1702" frameY="-28" frameWidth="2576" frameHeight="570"/>
+	<SubTexture name="madtruck0035" x="0" y="1595" width="876" height="346" frameX="-1702" frameY="-28" frameWidth="2576" frameHeight="570"/>
+	<SubTexture name="madtruck0036" x="2625" y="2630" width="875" height="344" frameX="-1702" frameY="-28" frameWidth="2576" frameHeight="570"/>
+	<SubTexture name="madtruck0037" x="1753" y="1941" width="875" height="344" frameX="-1702" frameY="-28" frameWidth="2576" frameHeight="570"/>
+	<SubTexture name="madtruck0038" x="3504" y="342" width="876" height="342" frameX="-1702" frameY="-28" frameWidth="2576" frameHeight="570"/>
+	<SubTexture name="madtruck0039" x="2628" y="688" width="876" height="344" frameX="-1702" frameY="-28" frameWidth="2576" frameHeight="570"/>
+	<SubTexture name="madtruck0040" x="3504" y="1026" width="876" height="342" frameX="-1702" frameY="-28" frameWidth="2576" frameHeight="570"/>
+	<SubTexture name="madtruck0041" x="1752" y="2286" width="876" height="344" frameX="-1702" frameY="-28" frameWidth="2576" frameHeight="570"/>
+	<SubTexture name="madtruck0042" x="3504" y="2394" width="876" height="342" frameX="-1702" frameY="-28" frameWidth="2576" frameHeight="570"/>
+	<SubTexture name="madtruck0043" x="875" y="544" width="876" height="353" frameX="-1702" frameY="-17" frameWidth="2576" frameHeight="570"/>
+	<SubTexture name="madtruck0044" x="876" y="2286" width="876" height="344" frameX="-1702" frameY="-28" frameWidth="2576" frameHeight="570"/>
+	<SubTexture name="madtruck0045" x="3504" y="1368" width="876" height="342" frameX="-1651" frameY="-29" frameWidth="2576" frameHeight="570"/>
+	<SubTexture name="madtruck0046" x="876" y="1595" width="876" height="345" frameX="-1529" frameY="-30" frameWidth="2576" frameHeight="570"/>
+	<SubTexture name="madtruck0047" x="3504" y="1368" width="876" height="342" frameX="-1444" frameY="-31" frameWidth="2576" frameHeight="570"/>
+	<SubTexture name="madtruck0048" x="3504" y="1368" width="876" height="342" frameX="-1368" frameY="-29" frameWidth="2576" frameHeight="570"/>
+	<SubTexture name="madtruck0049" x="2628" y="1032" width="876" height="344" frameX="-1295" frameY="-29" frameWidth="2576" frameHeight="570"/>
+	<SubTexture name="madtruck0050" x="2628" y="1032" width="876" height="344" frameX="-1179" frameY="-28" frameWidth="2576" frameHeight="570"/>
+	<SubTexture name="madtruck0051" x="876" y="1595" width="876" height="345" frameX="-1045" frameY="-23" frameWidth="2576" frameHeight="570"/>
+	<SubTexture name="madtruck0052" x="3504" y="1368" width="876" height="342" frameX="-976" frameY="-23" frameWidth="2576" frameHeight="570"/>
+	<SubTexture name="madtruck0053" x="2628" y="1032" width="876" height="344" frameX="-900" frameY="-21" frameWidth="2576" frameHeight="570"/>
+	<SubTexture name="madtruck0054" x="876" y="1595" width="876" height="345" frameX="-804" frameY="-18" frameWidth="2576" frameHeight="570"/>
+	<SubTexture name="madtruck0055" x="876" y="1595" width="876" height="345" frameX="-667" frameY="-18" frameWidth="2576" frameHeight="570"/>
+	<SubTexture name="madtruck0056" x="3504" y="1368" width="876" height="342" frameX="-464" frameY="-21" frameWidth="2576" frameHeight="570"/>
+	<SubTexture name="madtruck0057" x="3504" y="1368" width="876" height="342" frameX="-142" frameY="-8" frameWidth="2576" frameHeight="570"/>
+	<SubTexture name="madtruck0058" x="3504" y="3078" width="4" height="4" frameX="-1531" frameY="-82" frameWidth="2576" frameHeight="570"/>
+</TextureAtlas>
