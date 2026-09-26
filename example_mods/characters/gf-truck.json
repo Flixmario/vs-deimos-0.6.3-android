@@ -1,0 +1,45 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				4,
+				-2
+			],
+			"anim": "dodge",
+			"fps": 24,
+			"name": "gfdodge",
+			"indices": []
+		},
+		{
+			"offsets": [
+				4,
+				-2
+			],
+			"loop": true,
+			"fps": 20,
+			"anim": "idle",
+			"indices": [],
+			"name": "gfdance"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/gf-truck",
+	"position": [
+		670,
+		210
+	],
+	"healthicon": "gf",
+	"flip_x": false,
+	"healthbar_colors": [
+		165,
+		0,
+		77
+	],
+	"camera_position": [
+		-520,
+		-150
+	],
+	"sing_duration": 4,
+	"scale": 1.4
+}

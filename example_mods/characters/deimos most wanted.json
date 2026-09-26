@@ -1,0 +1,133 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-179,
+				50
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle anim"
+		},
+		{
+			"offsets": [
+				-182,
+				218
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up anim"
+		},
+		{
+			"offsets": [
+				-140,
+				8
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down anim"
+		},
+		{
+			"offsets": [
+				3,
+				124
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "shoot",
+			"indices": [],
+			"name": "shoot1"
+		},
+		{
+			"offsets": [
+				-69,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "shoot2",
+			"indices": [],
+			"name": "shoot2"
+		},
+		{
+			"offsets": [
+				-220,
+				230
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "shoot3",
+			"indices": [],
+			"name": "shoot3"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-230,
+				130
+			],
+			"anim": "haha",
+			"fps": 24,
+			"name": "haha",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-180,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "reload",
+			"indices": [],
+			"name": "down anim"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-187,
+				94
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "right anim",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-234,
+				46
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "left anim",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Deimos_Assets",
+	"position": [
+		-460,
+		210
+	],
+	"healthicon": "deimos",
+	"flip_x": true,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 0.8
+}

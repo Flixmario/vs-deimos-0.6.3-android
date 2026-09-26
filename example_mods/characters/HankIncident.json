@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				346,
+				-190
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "RR Hank Left"
+		},
+		{
+			"offsets": [
+				157,
+				-213
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "RR Hank Down"
+		},
+		{
+			"offsets": [
+				436,
+				-87
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "RR Hank Up"
+		},
+		{
+			"offsets": [
+				175,
+				-117
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "RR Hank Right"
+		},
+		{
+			"offsets": [
+				210,
+				-180
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "RR Hank Idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				311,
+				-195
+			],
+			"anim": "shootLEFT",
+			"fps": 24,
+			"name": "RR Hank Shoot Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				157,
+				-270
+			],
+			"anim": "shootRIGHT",
+			"fps": 24,
+			"name": "RR Hank Shoot Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				311,
+				-195
+			],
+			"anim": "shootDOWN",
+			"fps": 24,
+			"name": "RR Hank Shoot Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				155,
+				-270
+			],
+			"anim": "shootUP",
+			"fps": 24,
+			"name": "RR Hank Shoot Right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/IncidentHank012f",
+	"position": [
+		60,
+		60
+	],
+	"healthicon": "anti",
+	"flip_x": false,
+	"healthbar_colors": [
+		21,
+		24,
+		35
+	],
+	"camera_position": [
+		10,
+		220
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

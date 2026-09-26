@@ -1,0 +1,172 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				991,
+				185
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Hank Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				223,
+				1
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Hank Down",
+			"indices": [
+				1,
+				5,
+				7,
+				11,
+				13,
+				17
+			]
+		},
+		{
+			"offsets": [
+				562,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "shootRIGHT",
+			"indices": [
+				1,
+				3,
+				5,
+				7,
+				9,
+				11
+			],
+			"name": "Hank Shoot Right"
+		},
+		{
+			"offsets": [
+				572,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "shootDOWN",
+			"indices": [
+				1,
+				3,
+				5,
+				7,
+				9,
+				11
+			],
+			"name": "Hank Shoot Right"
+		},
+		{
+			"offsets": [
+				572,
+				-5
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "shootLEFT",
+			"indices": [
+				1,
+				3,
+				5,
+				7,
+				9,
+				11,
+				13,
+				15
+			],
+			"name": "Hank Shoot Left"
+		},
+		{
+			"offsets": [
+				572,
+				-15
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "shootUP",
+			"indices": [
+				1,
+				3,
+				5,
+				7,
+				9,
+				11
+			],
+			"name": "Hank Shoot Left"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				222,
+				11
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Hank Right",
+			"indices": [
+				1,
+				7,
+				9,
+				15
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				213,
+				-26
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Hank Left",
+			"indices": [
+				7,
+				9,
+				13
+			]
+		},
+		{
+			"offsets": [
+				130,
+				-46
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [
+				5,
+				7,
+				9
+			],
+			"name": "Hank Up"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/hank",
+	"position": [
+		270,
+		100
+	],
+	"healthicon": "hank",
+	"flip_x": true,
+	"healthbar_colors": [
+		25,
+		28,
+		40
+	],
+	"camera_position": [
+		-1680,
+		-450
+	],
+	"sing_duration": 6.1,
+	"scale": 1.5
+}

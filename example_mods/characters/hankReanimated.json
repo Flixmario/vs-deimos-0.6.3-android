@@ -1,0 +1,133 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				325,
+				14
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Hank Left Note"
+		},
+		{
+			"offsets": [
+				140,
+				10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Hank Right Note"
+		},
+		{
+			"offsets": [
+				10,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Hank Up Note"
+		},
+		{
+			"offsets": [
+				30,
+				10
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Hank Down Note"
+		},
+		{
+			"offsets": [
+				53,
+				97
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "shootLEFT",
+			"indices": [],
+			"name": "Hank Left Shoot"
+		},
+		{
+			"offsets": [
+				3,
+				194
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "shootUP",
+			"indices": [],
+			"name": "Hank Up Shoot"
+		},
+		{
+			"offsets": [
+				-11,
+				10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "shootRIGHT",
+			"indices": [],
+			"name": "Hank Right Shoot"
+		},
+		{
+			"offsets": [
+				40,
+				220
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "shootDOWN",
+			"indices": [],
+			"name": "Hank Down Shoot"
+		},
+		{
+			"offsets": [
+				90,
+				10
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "SCREAM",
+			"indices": [],
+			"name": "Hank Scream"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Hank Idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/hankReanimated",
+	"position": [
+		0,
+		180
+	],
+	"healthicon": "hank",
+	"flip_x": false,
+	"healthbar_colors": [
+		60,
+		175,
+		100
+	],
+	"camera_position": [
+		0,
+		30
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

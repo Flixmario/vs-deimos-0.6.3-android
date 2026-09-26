@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				70,
+				-30
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Sanford Idle",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				310,
+				-39
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Sanford Left",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				88,
+				-77
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Sanford Down",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				235,
+				138
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Sanford Up",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				34,
+				-63
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Sanford Right",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				184,
+				-47
+			],
+			"anim": "ugh",
+			"fps": 24,
+			"name": "Sanford Ugh",
+			"indices": []
+		},
+		{
+			"offsets": [
+				70,
+				-32
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "Chuckle",
+			"indices": [],
+			"name": "Sanford Chuckle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Sanford",
+	"position": [
+		-170,
+		130
+	],
+	"healthicon": "deimos",
+	"flip_x": true,
+	"healthbar_colors": [
+		140,
+		0,
+		0
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 0.8
+}

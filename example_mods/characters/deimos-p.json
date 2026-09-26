@@ -1,0 +1,133 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				157,
+				-205
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "left deimos",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				20,
+				-195
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down deimos",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				144,
+				-20
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up deimos",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				100,
+				-143
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "right deimos",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				124,
+				-154
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle deimos",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				12,
+				-104
+			],
+			"anim": "haha",
+			"fps": 24,
+			"name": "hey deimos",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				90,
+				-147
+			],
+			"anim": "reload",
+			"fps": 24,
+			"name": "reload deimos",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				237,
+				-133
+			],
+			"anim": "shoot",
+			"fps": 24,
+			"name": "shoot1 deimos",
+			"indices": []
+		},
+		{
+			"offsets": [
+				230,
+				40
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "shoot2",
+			"indices": [],
+			"name": "shoot2"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				3,
+				-109
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "hey deimos",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/deimos-classic",
+	"position": [
+		-40,
+		110
+	],
+	"healthicon": "deimos",
+	"flip_x": true,
+	"healthbar_colors": [
+		195,
+		0,
+		0
+	],
+	"camera_position": [
+		20,
+		260
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
