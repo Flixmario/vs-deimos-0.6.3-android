@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="deimos_assets.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="Idle anim0000" x="5476" y="2773" width="646" height="569" frameX="2" frameY="-21" frameWidth="679" frameHeight="588"/>
+	<SubTexture name="Idle anim0001" x="5476" y="1612" width="659" height="569" frameX="0" frameY="-21" frameWidth="679" frameHeight="588"/>
+	<SubTexture name="Idle anim0002" x="5476" y="1612" width="659" height="569" frameX="0" frameY="-21" frameWidth="679" frameHeight="588"/>
+	<SubTexture name="Idle anim0003" x="4777" y="2431" width="679" height="581" frameX="-2" frameY="-9" frameWidth="679" frameHeight="588"/>
+	<SubTexture name="Idle anim0004" x="4777" y="3012" width="660" height="586" frameX="-1" frameY="-3" frameWidth="679" frameHeight="588"/>
+	<SubTexture name="Idle anim0005" x="5476" y="512" width="651" height="589" frameX="0" frameY="0" frameWidth="679" frameHeight="588"/>
+	<SubTexture name="Idle anim0006" x="5476" y="512" width="651" height="589" frameX="0" frameY="0" frameWidth="679" frameHeight="588"/>
+	<SubTexture name="Idle anim0007" x="5476" y="2181" width="623" height="592" frameX="1" frameY="2" frameWidth="679" frameHeight="588"/>
+	<SubTexture name="Idle anim0008" x="5476" y="3342" width="609" height="591" frameX="1" frameY="2" frameWidth="679" frameHeight="588"/>
+	<SubTexture name="down anim0000" x="1015" y="3010" width="779" height="488" frameX="1" frameY="-23" frameWidth="784" frameHeight="509"/>
+	<SubTexture name="down anim0001" x="1451" y="3987" width="787" height="502" frameX="1" frameY="-9" frameWidth="784" frameHeight="509"/>
+	<SubTexture name="down anim0002" x="2390" y="4619" width="764" height="507" frameX="2" frameY="-3" frameWidth="784" frameHeight="509"/>
+	<SubTexture name="down anim0003" x="5476" y="0" width="750" height="512" frameX="2" frameY="1" frameWidth="784" frameHeight="509"/>
+	<SubTexture name="haha0000" x="2126" y="2221" width="725" height="696" frameX="2" frameY="-12" frameWidth="734" frameHeight="707"/>
+	<SubTexture name="haha0001" x="1402" y="2221" width="724" height="701" frameX="2" frameY="-7" frameWidth="734" frameHeight="707"/>
+	<SubTexture name="haha0002" x="678" y="2221" width="724" height="710" frameX="2" frameY="2" frameWidth="734" frameHeight="707"/>
+	<SubTexture name="haha0003" x="2126" y="2221" width="725" height="696" frameX="2" frameY="-12" frameWidth="734" frameHeight="707"/>
+	<SubTexture name="left anim0000" x="2836" y="636" width="916" height="593" frameX="2" frameY="2" frameWidth="977" frameHeight="589"/>
+	<SubTexture name="left anim0001" x="2836" y="1229" width="911" height="589" frameX="-19" frameY="-2" frameWidth="977" frameHeight="589"/>
+	<SubTexture name="left anim0002" x="1910" y="1437" width="908" height="586" frameX="-61" frameY="-5" frameWidth="977" frameHeight="589"/>
+	<SubTexture name="right anim0000" x="3808" y="502" width="754" height="636" frameX="-28" frameY="2" frameWidth="781" frameHeight="632"/>
+	<SubTexture name="right anim0001" x="0" y="3987" width="650" height="632" frameX="-104" frameY="-2" frameWidth="781" frameHeight="632"/>
+	<SubTexture name="right anim0002" x="1966" y="777" width="653" height="631" frameX="-74" frameY="-3" frameWidth="781" frameHeight="632"/>
+	<SubTexture name="shoot0000" x="2836" y="0" width="972" height="636" frameX="0" frameY="-46" frameWidth="1118" frameHeight="680"/>
+	<SubTexture name="shoot0001" x="860" y="1437" width="1050" height="636" frameX="2" frameY="-46" frameWidth="1118" frameHeight="680"/>
+	<SubTexture name="shoot0002" x="0" y="806" width="1087" height="631" frameX="-26" frameY="-51" frameWidth="1118" frameHeight="680"/>
+	<SubTexture name="shoot0003" x="872" y="0" width="1094" height="631" frameX="-26" frameY="-51" frameWidth="1118" frameHeight="680"/>
+	<SubTexture name="shoot0004" x="3808" y="1783" width="695" height="630" frameX="-1" frameY="-52" frameWidth="1118" frameHeight="680"/>
+	<SubTexture name="shoot0005" x="3808" y="1783" width="695" height="630" frameX="-1" frameY="-52" frameWidth="1118" frameHeight="680"/>
+	<SubTexture name="shoot0006" x="3808" y="2413" width="664" height="630" frameX="-33" frameY="-52" frameWidth="1118" frameHeight="680"/>
+	<SubTexture name="shoot0007" x="3808" y="2413" width="664" height="630" frameX="-33" frameY="-52" frameWidth="1118" frameHeight="680"/>
+	<SubTexture name="shoot0008" x="4777" y="1171" width="640" height="630" frameX="-57" frameY="-52" frameWidth="1118" frameHeight="680"/>
+	<SubTexture name="shoot0009" x="4777" y="1801" width="640" height="630" frameX="-57" frameY="-52" frameWidth="1118" frameHeight="680"/>
+	<SubTexture name="shoot0010" x="4777" y="1801" width="640" height="630" frameX="-57" frameY="-52" frameWidth="1118" frameHeight="680"/>
+	<SubTexture name="shoot0011" x="0" y="3498" width="987" height="489" frameX="1" frameY="-21" frameWidth="1049" frameHeight="508"/>
+	<SubTexture name="shoot0012" x="0" y="3010" width="1015" height="488" frameX="-6" frameY="-22" frameWidth="1049" frameHeight="508"/>
+	<SubTexture name="shoot0013" x="3808" y="0" width="969" height="502" frameX="2" frameY="-8" frameWidth="1049" frameHeight="508"/>
+	<SubTexture name="shoot0014" x="5476" y="1101" width="746" height="511" frameX="-40" frameY="1" frameWidth="1049" frameHeight="508"/>
+	<SubTexture name="shoot0015" x="650" y="3987" width="801" height="511" frameX="-40" frameY="1" frameWidth="1049" frameHeight="508"/>
+	<SubTexture name="shoot0016" x="1594" y="4619" width="796" height="512" frameX="-40" frameY="2" frameWidth="1049" frameHeight="508"/>
+	<SubTexture name="shoot0017" x="797" y="4619" width="797" height="512" frameX="-40" frameY="2" frameWidth="1049" frameHeight="508"/>
+	<SubTexture name="shoot0018" x="0" y="4619" width="797" height="512" frameX="-40" frameY="2" frameWidth="1049" frameHeight="508"/>
+	<SubTexture name="shoot0019" x="3808" y="1138" width="689" height="645" frameX="2" frameY="-163" frameWidth="751" frameHeight="806"/>
+	<SubTexture name="shoot0020" x="0" y="2221" width="678" height="789" frameX="-26" frameY="-19" frameWidth="751" frameHeight="806"/>
+	<SubTexture name="shoot0021" x="4777" y="585" width="697" height="586" frameX="-46" frameY="-222" frameWidth="751" frameHeight="806"/>
+	<SubTexture name="shoot0022" x="4777" y="0" width="699" height="585" frameX="-50" frameY="-223" frameWidth="751" frameHeight="806"/>
+	<SubTexture name="shoot0023" x="2851" y="2221" width="703" height="585" frameX="-49" frameY="-223" frameWidth="751" frameHeight="806"/>
+	<SubTexture name="shoot0024" x="1087" y="806" width="704" height="585" frameX="-49" frameY="-223" frameWidth="751" frameHeight="806"/>
+	<SubTexture name="shoot0025" x="1087" y="806" width="704" height="585" frameX="-49" frameY="-223" frameWidth="751" frameHeight="806"/>
+	<SubTexture name="up anim0000" x="0" y="0" width="872" height="806" frameX="-2" frameY="-18" frameWidth="877" frameHeight="823"/>
+	<SubTexture name="up anim0001" x="0" y="1437" width="860" height="784" frameX="-5" frameY="-41" frameWidth="877" frameHeight="823"/>
+	<SubTexture name="up anim0002" x="1966" y="0" width="870" height="777" frameX="-2" frameY="-48" frameWidth="877" frameHeight="823"/>
+</TextureAtlas>

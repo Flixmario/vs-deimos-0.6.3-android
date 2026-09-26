@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="deimos-classic.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="down deimos0000" x="1771" y="3339" width="462" height="447" frameX="2" frameY="-15" frameWidth="458" frameHeight="460"/>
+	<SubTexture name="down deimos0001" x="3900" y="0" width="450" height="453" frameX="-3" frameY="-5" frameWidth="458" frameHeight="460"/>
+	<SubTexture name="down deimos0002" x="415" y="3339" width="452" height="460" frameX="-2" frameY="2" frameWidth="458" frameHeight="460"/>
+	<SubTexture name="down deimos0003" x="1319" y="3339" width="452" height="460" frameX="-2" frameY="2" frameWidth="458" frameHeight="460"/>
+	<SubTexture name="down deimos0004" x="867" y="3339" width="452" height="460" frameX="-2" frameY="2" frameWidth="458" frameHeight="460"/>
+	<SubTexture name="hey deimos0000" x="2975" y="0" width="476" height="530" frameX="2" frameY="-14" frameWidth="472" frameHeight="542"/>
+	<SubTexture name="hey deimos0001" x="2975" y="530" width="460" height="546" frameX="2" frameY="2" frameWidth="472" frameHeight="542"/>
+	<SubTexture name="hey deimos0002" x="2975" y="2130" width="462" height="535" frameX="2" frameY="-9" frameWidth="472" frameHeight="542"/>
+	<SubTexture name="hey deimos0003" x="2975" y="1076" width="471" height="527" frameX="2" frameY="-17" frameWidth="472" frameHeight="542"/>
+	<SubTexture name="hey deimos0004" x="2975" y="1603" width="471" height="527" frameX="2" frameY="-17" frameWidth="472" frameHeight="542"/>
+	<SubTexture name="idle deimos0000" x="983" y="2839" width="488" height="500" frameX="-18" frameY="-5" frameWidth="523" frameHeight="504"/>
+	<SubTexture name="idle deimos0001" x="511" y="2336" width="510" height="500" frameX="-13" frameY="-5" frameWidth="523" frameHeight="504"/>
+	<SubTexture name="idle deimos0002" x="0" y="2336" width="511" height="503" frameX="-13" frameY="-2" frameWidth="523" frameHeight="504"/>
+	<SubTexture name="idle deimos0003" x="2433" y="1779" width="515" height="507" frameX="-9" frameY="2" frameWidth="523" frameHeight="504"/>
+	<SubTexture name="idle deimos0004" x="1832" y="1215" width="525" height="493" frameX="0" frameY="-12" frameWidth="523" frameHeight="504"/>
+	<SubTexture name="idle deimos0005" x="1021" y="2336" width="498" height="498" frameX="2" frameY="-8" frameWidth="523" frameHeight="504"/>
+	<SubTexture name="idle deimos0006" x="1471" y="2839" width="482" height="500" frameX="-15" frameY="-5" frameWidth="523" frameHeight="504"/>
+	<SubTexture name="idle deimos0007" x="0" y="2839" width="492" height="500" frameX="-15" frameY="-5" frameWidth="523" frameHeight="504"/>
+	<SubTexture name="idle deimos0008" x="0" y="2839" width="492" height="500" frameX="-15" frameY="-5" frameWidth="523" frameHeight="504"/>
+	<SubTexture name="idle deimos0009" x="0" y="2839" width="492" height="500" frameX="-15" frameY="-5" frameWidth="523" frameHeight="504"/>
+	<SubTexture name="idle deimos0010" x="492" y="2839" width="491" height="500" frameX="-15" frameY="-5" frameWidth="523" frameHeight="504"/>
+	<SubTexture name="left deimos0000" x="1953" y="2839" width="527" height="454" frameX="-9" frameY="1" frameWidth="534" frameHeight="451"/>
+	<SubTexture name="left deimos0001" x="1519" y="2336" width="530" height="453" frameX="-4" frameY="0" frameWidth="534" frameHeight="451"/>
+	<SubTexture name="left deimos0002" x="2049" y="2336" width="522" height="453" frameX="-13" frameY="0" frameWidth="534" frameHeight="451"/>
+	<SubTexture name="left deimos0003" x="2480" y="2839" width="522" height="453" frameX="-13" frameY="0" frameWidth="534" frameHeight="451"/>
+	<SubTexture name="reload deimos0000" x="3451" y="2023" width="438" height="507" frameX="-20" frameY="2" frameWidth="460" frameHeight="503"/>
+	<SubTexture name="reload deimos0001" x="3451" y="1012" width="442" height="505" frameX="-20" frameY="0" frameWidth="460" frameHeight="503"/>
+	<SubTexture name="reload deimos0002" x="3451" y="2530" width="433" height="505" frameX="-24" frameY="0" frameWidth="460" frameHeight="503"/>
+	<SubTexture name="reload deimos0003" x="0" y="3339" width="415" height="504" frameX="-41" frameY="0" frameWidth="460" frameHeight="503"/>
+	<SubTexture name="reload deimos0004" x="3451" y="1517" width="441" height="506" frameX="-15" frameY="2" frameWidth="460" frameHeight="503"/>
+	<SubTexture name="reload deimos0005" x="3451" y="0" width="449" height="506" frameX="-7" frameY="2" frameWidth="460" frameHeight="503"/>
+	<SubTexture name="reload deimos0006" x="3451" y="506" width="449" height="506" frameX="-7" frameY="2" frameWidth="460" frameHeight="503"/>
+	<SubTexture name="right deimos0000" x="0" y="1202" width="708" height="511" frameX="-34" frameY="2" frameWidth="749" frameHeight="507"/>
+	<SubTexture name="right deimos0001" x="708" y="1202" width="716" height="503" frameX="-7" frameY="-6" frameWidth="749" frameHeight="507"/>
+	<SubTexture name="right deimos0002" x="733" y="699" width="718" height="503" frameX="2" frameY="-6" frameWidth="749" frameHeight="507"/>
+	<SubTexture name="right deimos0003" x="0" y="699" width="733" height="503" frameX="2" frameY="-6" frameWidth="749" frameHeight="507"/>
+	<SubTexture name="shoot1 deimos0000" x="1710" y="1713" width="560" height="545" frameX="-45" frameY="-4" frameWidth="606" frameHeight="578"/>
+	<SubTexture name="shoot1 deimos0001" x="1832" y="0" width="601" height="582" frameX="-5" frameY="2" frameWidth="606" frameHeight="578"/>
+	<SubTexture name="shoot1 deimos0002" x="1110" y="1713" width="600" height="565" frameX="-8" frameY="2" frameWidth="606" frameHeight="578"/>
+	<SubTexture name="shoot1 deimos0003" x="3900" y="961" width="392" height="506" frameX="-214" frameY="-6" frameWidth="606" frameHeight="578"/>
+	<SubTexture name="shoot1 deimos0004" x="3900" y="453" width="391" height="508" frameX="-217" frameY="-4" frameWidth="606" frameHeight="578"/>
+	<SubTexture name="shoot2 deimos0000" x="2433" y="624" width="521" height="577" frameX="-117" frameY="-125" frameWidth="645" frameHeight="706"/>
+	<SubTexture name="shoot2 deimos0001" x="1218" y="0" width="614" height="624" frameX="-19" frameY="-78" frameWidth="645" frameHeight="706"/>
+	<SubTexture name="shoot2 deimos0002" x="623" y="0" width="595" height="688" frameX="-29" frameY="-19" frameWidth="645" frameHeight="706"/>
+	<SubTexture name="shoot2 deimos0003" x="0" y="0" width="623" height="699" frameX="-3" frameY="-3" frameWidth="645" frameHeight="706"/>
+	<SubTexture name="shoot2 deimos0004" x="2433" y="1201" width="476" height="578" frameX="-153" frameY="-124" frameWidth="645" frameHeight="706"/>
+	<SubTexture name="up deimos0000" x="1832" y="582" width="550" height="633" frameX="-10" frameY="2" frameWidth="561" frameHeight="630"/>
+	<SubTexture name="up deimos0001" x="2433" y="0" width="542" height="624" frameX="-17" frameY="-7" frameWidth="561" frameHeight="630"/>
+	<SubTexture name="up deimos0002" x="0" y="1713" width="556" height="623" frameX="-6" frameY="-9" frameWidth="561" frameHeight="630"/>
+	<SubTexture name="up deimos0003" x="556" y="1713" width="554" height="623" frameX="-8" frameY="-9" frameWidth="561" frameHeight="630"/>
+	<SubTexture name="up deimos0004" x="0" y="1713" width="556" height="623" frameX="-6" frameY="-9" frameWidth="561" frameHeight="630"/>
+</TextureAtlas>

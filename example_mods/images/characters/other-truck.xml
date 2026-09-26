@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="other-truck.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="gfdance0000" x="0" y="0" width="2006" height="943" frameX="0" frameY="0" frameWidth="2006" frameHeight="950"/>
+	<SubTexture name="gfdance0001" x="2006" y="0" width="2006" height="950"/>
+	<SubTexture name="gfdance0002" x="4012" y="0" width="2006" height="946" frameX="0" frameY="0" frameWidth="2006" frameHeight="950"/>
+	<SubTexture name="gfdance0003" x="6018" y="0" width="2006" height="943" frameX="0" frameY="0" frameWidth="2006" frameHeight="950"/>
+	<SubTexture name="gfdance0004" x="0" y="950" width="2006" height="950"/>
+	<SubTexture name="gfdance0005" x="2006" y="950" width="2006" height="946" frameX="0" frameY="0" frameWidth="2006" frameHeight="950"/>
+	<SubTexture name="gfdance0006" x="4012" y="950" width="2006" height="943" frameX="0" frameY="0" frameWidth="2006" frameHeight="950"/>
+	<SubTexture name="gfdance0007" x="6018" y="950" width="2006" height="950"/>
+	<SubTexture name="gfdance0008" x="0" y="1900" width="2006" height="946" frameX="0" frameY="0" frameWidth="2006" frameHeight="950"/>
+</TextureAtlas>
