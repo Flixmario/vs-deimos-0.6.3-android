@@ -1,0 +1,11 @@
+{
+	"confirm_anim": "M Dad Idle",
+	"idle_anim": "idle deimos",
+	"position": [
+		200,
+		73
+	],
+	"scale": 0.7,
+	"image": "Menu_deimos",
+	"flipX": false
+}
